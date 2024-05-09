@@ -1,0 +1,13 @@
+.center{  
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+ .hr{
+  border-top: 5px solid rgb(60, 60, 60);
+}
+.text{
+  color: #ff7200;
+
+}
